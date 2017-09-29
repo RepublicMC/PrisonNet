@@ -1,0 +1,18 @@
+# PrisonNet Configuration
+
+settings:
+ messages:
+  prefix: '&8[&bPrison&3Net&8]'
+ branches:
+  pn_beta_1:
+   usage: false
+   alerts: false
+   log: true
+  pn_beta_1:
+   usage: false
+   alerts: false
+   log: true
+  pn_func:
+   usage: true
+   alerts: true
+   log: true
