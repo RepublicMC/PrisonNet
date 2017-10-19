@@ -1,0 +1,32 @@
+staff:
+ groups:
+  owner:
+   prefix: '&f[&4Owner&f]'
+   op: true
+  admin:
+   prefix: '&f[&cAdmin&f]'
+   op: false
+  manager:
+   prefix: '&f[&6Manager&f]'
+   op: false
+  developer:
+   prefix: '&f[&9Developer&f]'
+   op: true
+  jradmin:
+   prefix: '&f[&cAdmin&f]'
+   op: false
+  sr-mod:
+   prefix: '&f[&5Senior Mod&f]'
+   op: false
+  mod:
+   prefix: '&f[&5Mod&f]'
+   op: false
+  chatmod:
+   prefix: '&f[&eChat Mod&f]'
+   op: false
+  helper:
+   prefix: '&f[&bHelper&f]'
+   op: false
+  trainee:
+   prefix: '&f[&3Trainee&f]'
+   op: false
