@@ -1,0 +1,6 @@
+pickaxes:
+ starter:
+  name: '&9&lStarter Pickaxe'
+  fortune: 20
+  efficiency: 20
+  unbreaking: 20
