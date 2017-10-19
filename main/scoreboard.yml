@@ -1,0 +1,6 @@
+scoreboard:
+ title: '&b&lPrison&3&lNet'
+ board:
+ - '-'
+ - '--'
+ - '---'
