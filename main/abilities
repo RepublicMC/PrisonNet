@@ -1,0 +1,7 @@
+abilities:
+ haste:
+  use false
+ speed:
+  use: false
+ flight:
+  use: false
