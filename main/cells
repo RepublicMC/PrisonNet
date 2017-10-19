@@ -1,0 +1,10 @@
+cells:
+ tier1:
+  name: '&f[&bTier&3I&f]'
+  rent: 17500
+ tier2:
+  name: '&f[&bTier&3II&f]'
+  rent: 35000
+ tier3:
+  name: '&f[&bTier&3III&f]'
+  rent: 50000
