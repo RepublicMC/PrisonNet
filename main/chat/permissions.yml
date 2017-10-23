@@ -1,0 +1,7 @@
+chatperms:
+ g-comm-node: 'communication.global'
+ p-comm-node: 'communication.private'
+ staff-comm-node: 'communication.staff'
+ assist-comm-node: 'communication.help'
+ staff-comm-highlight-node: 'communication.staffhightlight'
+ admin-comm-node: 'communication.admin'
